@@ -9,3 +9,4 @@ dist/
 
 # Arquivos não relaciondos
 .*
+!.gitignore
